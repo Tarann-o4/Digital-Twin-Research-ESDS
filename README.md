@@ -24,7 +24,12 @@ Our goal is to harness Digital Twin technology for data center optimization at E
 ---
 
 ## Repository Structure
-digital-twin-research/ ├─ code/ │ ├─ data-ingestion/ │ │ └─ thingsboard_ingest.py # Python script for collecting telemetry from Thingsboard │ ├─ digital-twin/ │ │ └─ ditto_update.py # Python script to update digital twin models in Eclipse Ditto │ └─ README.md # Code-specific documentation ├─ docs/ │ ├─ white-paper/ │ │ └─ Harnessing-Digital-Twins-for-Data-Center-Optimization-at-ESDS.pdf │ └─ research-notes/ │ ├─ integration-architecture.md # Detailed notes on integration and architecture │ └─ implementation-steps.md # Step-by-step implementation guide ├─ images/ │ ├─ architecture-diagram.png # Diagram of system architecture and data flow │ └─ workflow.png # Workflow diagram for the implementation roadmap ├─ .gitignore ├─ LICENSE └─ README.md # This file
+- **code/**: Contains all source code for data ingestion and digital twin integration.
+- **docs/**: Stores research papers, white papers, and detailed documentation.
+- **images/**: Diagrams and visual assets for documentation.
+- **.gitignore**: Specifies files/folders to exclude from version control.
+- **LICENSE**: The license under which this project is distributed.
+- **README.md**: This main project overview and guide.
 
-
+---
 
