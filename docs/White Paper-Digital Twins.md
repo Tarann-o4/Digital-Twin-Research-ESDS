@@ -242,7 +242,7 @@ For further details and verification, please see:
 
 Below is the updated Digital Twin workflow diagram:
 
-[Digital Twin Flowchart](revisedflowchart.png)
+![Digital Twin Flowchart](./revisedflowchart.png)
 
 ---
 
