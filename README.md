@@ -45,7 +45,7 @@ ESDS, a leading provider of data center solutions, faces critical challenges suc
     CollapseWrapCopy
     
     `git clone https://github.com/Tarann-o4/Digital-Twin-Research-ESDS.git
-    cd your-repo-name`
+    cd Digital-Twin-Research-ESDS`
     
 2. **Deploy Eclipse Ditto:**
     
